@@ -1,0 +1,4 @@
+# springmvcdemo
+SpringData项目模板
+涉及到的技术：Mysql+Hibernate+Maven+Spring+Bootstrap+Tomcat
+该模板利用SpringData框架进行网站博客文章的管理，包括常见的增删改查操作
